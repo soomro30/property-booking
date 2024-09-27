@@ -1,0 +1,10 @@
+@use '@carbon/react';
+@use '@carbon/react/scss/themes';
+@use '@carbon/react/scss/theme';
+@use '@carbon/react/scss/grid';
+
+// You can choose a theme here. Options are:
+// themes.$white, themes.$g10, themes.$g90, themes.$g100
+@include theme.theme(themes.$g10);
+
+// Your custom styles can go here

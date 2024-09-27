@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/salesbooking/static/css/main.c2af661c.css",
+    "main.js": "/salesbooking/static/js/main.9dcc674a.js",
+    "static/js/198.fb07deae.chunk.js": "/salesbooking/static/js/198.fb07deae.chunk.js",
+    "static/media/bg-info@2x.png": "/salesbooking/static/media/bg-info@2x.2657978b0e54cd8894d5.png",
+    "static/media/banner-group-public-default.png": "/salesbooking/static/media/banner-group-public-default.af8a15a9dd22b3e1d734.png",
+    "static/media/banner-user-default.png": "/salesbooking/static/media/banner-user-default.f8e99e75f7402c4dae58.png",
+    "static/media/banner-brand-default.png": "/salesbooking/static/media/banner-brand-default.853be605e8ad0eac7451.png",
+    "static/media/einstein-figure.svg": "/salesbooking/static/media/einstein-figure.f6a78f192a2366d352a1.svg",
+    "static/media/einstein-header-background.svg": "/salesbooking/static/media/einstein-header-background.10588db1a3e88dae560b.svg",
+    "index.html": "/salesbooking/index.html",
+    "static/media/logo-noname.svg": "/salesbooking/static/media/logo-noname.5724638fe830080a8f43.svg",
+    "main.c2af661c.css.map": "/salesbooking/static/css/main.c2af661c.css.map",
+    "main.9dcc674a.js.map": "/salesbooking/static/js/main.9dcc674a.js.map",
+    "198.fb07deae.chunk.js.map": "/salesbooking/static/js/198.fb07deae.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c2af661c.css",
+    "static/js/main.9dcc674a.js"
+  ]
+}
